@@ -14,6 +14,13 @@ During this project I learnt how to comment properly on CSS documents, how to or
 
 Although there isn't much to use within this project, I can still provide a description of how to use the website.
 
+![Image of top of website](./assets/images/horiseon-prntscrn1.png)
+![Image of middle of website](./assets/images/horiseon-prntscrn2.png)
+![Image of bottom of website](./assets/images/horiseon-prntscrn3.png)
+
+Link to deployed webpage: 
+https://duragmyreligion.github.io/horiseon-refactor/#online-reputation-management
+
 Features:
 
 1. Left clicking on 'Search Engine Optimization' in the top navigation bar moves you to the 'Search Engine Optimization' section of the website and displays information about this topic.
